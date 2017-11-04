@@ -1,6 +1,6 @@
 -- Constants
 
-APP_REPO = "1upus"
+APP_REPO = "theheroGAC"
 APP_PROJECT = "QuickLaunch_installer_for_PSVita"			--here name of repo in github...your vpk is QuickLaunch_installer_for_PSVita.vpk
 
 APP_VERSION_MAJOR = 0x00 -- major.minor
