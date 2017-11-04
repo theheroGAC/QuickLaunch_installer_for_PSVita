@@ -1,7 +1,7 @@
 -- Constants
 
 APP_REPO = "1upus"
-APP_PROJECT = "QuickLaunch_installer_for_PSVita"
+APP_PROJECT = "QuickLaunch_installer_for_PSVita"			--here name of repo in github...your vpk is QuickLaunch_installer_for_PSVita.vpk
 
 APP_VERSION_MAJOR = 0x00 -- major.minor
 APP_VERSION_MINOR = 0x04
