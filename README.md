@@ -23,4 +23,4 @@ QL installer supports external language file for menu translation. Please use ux
 
 - App created with LUA and based on sources by Team OneLua. https://github.com/ONElua/
 
-lupus
+this is a fork of the original 1upus tool on this page https://github.com/1upus/QuickLaunch_installer_for_PSVita
