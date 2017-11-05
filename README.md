@@ -1,4 +1,4 @@
-# QuickLaunch Installer for PS Vita
+# QuickLaunch Installer fork for PS Vita (original tool by 1upus here https://github.com/1upus/QuickLaunch_installer_for_PSVita)
 
 ![header](quicklaunch_preview.jpg)
 
